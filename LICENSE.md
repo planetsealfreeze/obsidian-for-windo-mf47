@@ -1,4 +1,4 @@
-# 
+# Get the ultimate Obsidian for Windows module with professional Obsidian for Windows Module | rich-text-editing + OCR-support. Featuring rich-text-editing and OCR-support, it's the
 
 
 
